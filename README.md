@@ -24,7 +24,7 @@ gradientView.endColor = UIColor.gray  //bottom right collor will be gray
 
 ```swift
 
-let gradientView: GradientView = GradientView() 
+let gradientView: GradientView = AnimatingGradientView() 
 
 ...  //other code
 
